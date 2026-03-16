@@ -1,0 +1,21 @@
+{
+  "name": "multisig-vault-solidity",
+  "version": "1.0.0",
+  "description": "Expert-level Multi-Signature Vault",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "web3",
+    "multisig",
+    "blockchain",
+    "security"
+  ],
+  "author": "Nazrul",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
